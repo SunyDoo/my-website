@@ -1,14 +1,14 @@
 body {
     background: rgb(178, 178, 184);
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif
   }
 
 header {
     font-size: xx-large;
     font-style: italic;
-}
-
-p {
-    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
 }
 
 img {
@@ -16,4 +16,9 @@ img {
     text-align: center;
     padding: 30px;
     border: 50px black;
+}
+
+button {
+    padding-left: 10px;
+    padding-right: 10px;
 }
