@@ -1,12 +1,19 @@
 body {
-    background: rgb(108, 108, 121);
+    background: rgb(178, 178, 184);
   }
 
 header {
-    font-size: x-large;
+    font-size: xx-large;
     font-style: italic;
 }
 
 p {
     font-size: medium;
+}
+
+img {
+    size-adjust: 20px;
+    text-align: center;
+    padding: 30px;
+    border: 50px black;
 }
