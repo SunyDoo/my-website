@@ -1,0 +1,12 @@
+body {
+    background: rgb(108, 108, 121);
+  }
+
+header {
+    font-size: x-large;
+    font-style: italic;
+}
+
+p {
+    font-size: medium;
+}
