@@ -1,14 +1,23 @@
 body {
-    background: rgb(178, 178, 184);
+    background: rgb(172, 167, 167);
     font-size: medium;
     font-family: Georgia, 'Times New Roman', Times, serif
   }
 
 header {
     font-size: xx-large;
-    font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif
+    color: #3D0000 
     
+}
+
+#picture {
+    float: left
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;     
 }
 
 img {
@@ -16,9 +25,16 @@ img {
     text-align: center;
     padding: 30px;
     border: 50px black;
+ 
 }
 
-button {
+.info {
     padding-left: 10px;
     padding-right: 10px;
+    position: absolute;
+    bottom: 0;
+    text-align: left;
+   
+    
 }
+
